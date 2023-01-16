@@ -6,5 +6,5 @@ function Abdirahim() {
       </div>
     );
   }
-  ​
+  
   export default Abdirahim;
